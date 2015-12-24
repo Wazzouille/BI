@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DBIG3B8</Id>
+            <Name>DBIG3B8</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcblrCTv3IUWvGuzh3jIGOwAAAAAQAAAARABCAEkARwAzAEIAOAAAABBmAAAAAQAAIAAAAGf7A6lnmfIaP+cjy7aVdQlxBGa/y7+2Q8fvrD/N+KV/AAAAAA6AAAAAAgAAIAAAAJXu+b7/EvoKqAF6/+KuT8Iu3oKepf0mke6jpEJp0hnyIAAAABiR8SUCeBB4V9HowR9n6vC9qLR0UU9Gfrnzn6hBua1GQAAAAKGQuMRqzDba2v7Xeb86Npnkd1VkE1j3165uPPebC1I4gs6Xl1l4IMn6hoD/yxJFBf9T2+gNy16n+j4429/0jxM=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DBIG3B8</Id>
+            <Name>DBIG3B8</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcblrCTv3IUWvGuzh3jIGOwAAAAAQAAAARABCAEkARwAzAEIAOAAAABBmAAAAAQAAIAAAANqZlgBIp3dV1qopgG336n6ovwUYd+OBmGVLGUSsKpsbAAAAAA6AAAAAAgAAIAAAAFLkeSiEnFXnA5a1w/4iqygZjS3Mb55scmPrUt5mSGXxUAAAAFvbT9HNHz7j39bMhLfb9nWtKiIAR6bg9ySpwqD/EuSWm9n1cKer0UM4FLHGo4naPv5enlEQfYpK166FIwWA9wSQzmNCCf/MCcriuGIwjcOkQAAAABxI0AD6LpKltYmAQMUe8elpSQG08Dd3geMou9l5zmqZGU6FPqKjq4UGYqltpRE2kNelbRdPGAgp/ulwhRN+uI8=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>BIProjet</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
